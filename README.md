@@ -1,6 +1,5 @@
-# hello-world
-first repository
-#include<stdio.h>
+******first repository********
+#include<stdio.h>   
 int main()
 {
 printf("hello world!");
